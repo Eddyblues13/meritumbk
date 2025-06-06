@@ -24,7 +24,7 @@ class TransactionController extends Controller
             'type' => 'credit',
             'status' => 'active',
             'description' => $description,
-        ]);
+        ]); 
 
         Mail::to($user->email)->send(new TransactionNotificationMail($user, $amount, 'Savings Balance', 'Credit', $description));
 
