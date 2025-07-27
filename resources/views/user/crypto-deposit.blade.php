@@ -376,7 +376,7 @@
                                         class="fas fa-piggy-bank image-block imaged w48 text-warning"></span>
                                     <div> <strong>Auto Save</strong>
                                         <p>Set a goal, save automatically with
-                                            Meritum Bank's Auto Save and track your progress.
+                                            Union Reserve Bank's Auto Save and track your progress.
                                         </p>
                                     </div>
                                 </div>

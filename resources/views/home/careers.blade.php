@@ -14,7 +14,7 @@
                         </div>
                         <div class='sub-hero-content l-contain'>
                             <div class='sub-hero-content-inner'>
-                                <p class="sub-hero__title mb-1">Join the Meritum Bank Team
+                                <p class="sub-hero__title mb-1">Join the Union Reserve Bank Team
                                 </p>
                                 <p class='sub-hero__teaser p'>As a not-for-profit credit union, we’re committed to
                                     caring for our people and communities so they can prosper. </p>
@@ -151,7 +151,7 @@
             <div class="footer-quick-bar__text">
                 <h2 class='footer-quick-bar__item-header'><a
                         class="footer-quick-bar__item-header footer-quick-bar__item-header--phone"
-                        href="mailto:support@meritumbk.com">support@meritumbk.com</a></h2>
+                        href="mailto:support@unionreservebk.com">support@unionreservebk.com</a></h2>
                 <h3 class='footer-quick-bar__item-subtitle'>Customer Service</h3>
             </div>
         </div>

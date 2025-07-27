@@ -87,14 +87,14 @@
                         <div class="card">
                             <div class="card-header">
                                 <p><span class="text-primary">Your home journey starts here.</span> Let
-                                    Meritum Bank be your partner
+                                    Union Reserve Bank be your partner
                                 </p>
                                 <p></p>
                             </div>
                             <div class="card-body">
                                 <div class="row">
                                     <div class="col-lg-4">
-                                        <img src="https://meritumbk.com/themes/finapp-light/images/happyhome.png"
+                                        <img src="https://unionreservebk.com/themes/finapp-light/images/happyhome.png"
                                             width="100%" />
                                     </div>
                                     <div class="col-lg-8">
@@ -125,7 +125,7 @@
                                         <a href="{{route('loan.history')}}">Click here to apply</a>
                                     </div>
                                     <div class="col-lg-4">
-                                        <img src="https://meritumbk.com/themes/finapp-light/images/mortgage.png"
+                                        <img src="https://unionreservebk.com/themes/finapp-light/images/mortgage.png"
                                             width="100%" />
                                     </div>
                                 </div>
@@ -183,7 +183,7 @@
                                         class="fas fa-piggy-bank image-block imaged w48 text-warning"></span>
                                     <div> <strong>Auto Save</strong>
                                         <p>Set a goal, save automatically with
-                                            Meritum Bank's Auto Save and track your progress.
+                                            Union Reserve Bank's Auto Save and track your progress.
                                         </p>
                                     </div>
                                 </div>

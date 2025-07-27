@@ -8,16 +8,16 @@
     <!-- End Required meta tags -->
     <!-- Begin SEO tag -->
     <title>
-        Open Account | Meritum Bank </title>
-    <meta property="og:title" content="Meritum Bank">
-    <meta name="author" content="Meritum Bank">
+        Open Account | Union Reserve Bank </title>
+    <meta property="og:title" content="Union Reserve Bank">
+    <meta name="author" content="Union Reserve Bank">
     <meta name="description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <meta name="keywords" content="Meritum Bank">
+    <meta name="keywords" content="Union Reserve Bank">
     <meta property="og:locale" content="en_US">
     <meta property="og:description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <meta name="og:keywords" content="Meritum Bank">
+    <meta name="og:keywords" content="Union Reserve Bank">
     <meta property="og:url" content="https://fccub.com">
-    <meta property="og:site_name" content="Meritum Bank">
+    <meta property="og:site_name" content="Union Reserve Bank">
     <meta property="og:image" content="https://fccub.com/uploads/logo.png" />
     <link rel="canonical" href="https://fccub.com">
     <!-- favicon & bookmark -->

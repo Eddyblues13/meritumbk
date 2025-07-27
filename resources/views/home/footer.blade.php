@@ -102,7 +102,7 @@
 
                 <div class='footer-site-links__right'>
                     <a href="#" target="_blank"><img src="templates/bank-pro/blue-seal-200-42-bbb-80015515.png"
-                            style="border: 0;" alt="Meritum Bank BBB Business Review" /></a>
+                            style="border: 0;" alt="Union Reserve Bank BBB Business Review" /></a>
                     <a href='#' class='footer-site-links__ncua-link footer-site-links__ncua-link--lender'><img
                             src='templates/bank-pro/images/assets/ncua-lender.png' alt='Lender'></a>
                     <a href='#' class='footer-site-links__ncua-link footer-site-links__ncua-link--lender'><img
@@ -131,6 +131,6 @@
 
 
 
-<!-- Mirrored from meritumbk.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Feb 2025 14:25:19 GMT -->
+<!-- Mirrored from unionreservebk.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 11 Feb 2025 14:25:19 GMT -->
 
 </html>

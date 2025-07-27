@@ -80,7 +80,7 @@
                             Wire Transfer </h5>
                         <hr>
                         <h5 class="modal-title text-primary">
-                            Meritum Bank Wire
+                            Union Reserve Bank Wire
                             Transfer<br><small><span class="text-danger">Note:</span> Wire Transactions Fee is
                                 1%
                             </small>
@@ -355,7 +355,7 @@
                                         class="fas fa-piggy-bank image-block imaged w48 text-warning"></span>
                                     <div> <strong>Auto Save</strong>
                                         <p>Set a goal, save automatically with
-                                            Meritum Bank's Auto Save and track your progress.
+                                            Union Reserve Bank's Auto Save and track your progress.
                                         </p>
                                     </div>
                                 </div>

@@ -76,14 +76,14 @@
                                         <h3 class='quick-bar__item-header'>Video Connect</h3>
                                     </div>
                                 </a>
-                                <a class='quick-bar__item' href='mailto:support@meritumbk.com'>
+                                <a class='quick-bar__item' href='mailto:support@unionreservebk.com'>
                                     <img src="templates/bank-pro/images/assets/get-started-email-us.svg" alt="" />
                                     <div class="quick-bar__text mt-2">
                                         <h3 class='quick-bar__item-header'>Email Us</h3>
                                     </div>
                                 </a>
 
-                                <a class='quick-bar__item' href='mailto:support@meritumbk.com'>
+                                <a class='quick-bar__item' href='mailto:support@unionreservebk.com'>
                                     <img src="templates/bank-pro/images/assets/get-started-visit-us.svg" alt="" />
                                     <div class="quick-bar__text mt-2">
                                         <h3 class='quick-bar__item-header'>Schedule Appointment</h3>
@@ -145,7 +145,7 @@
             <div class="footer-quick-bar__text">
                 <h2 class='footer-quick-bar__item-header'><a
                         class="footer-quick-bar__item-header footer-quick-bar__item-header--phone"
-                        href="mailto:support@meritumbk.com">support@meritumbk.com</a></h2>
+                        href="mailto:support@unionreservebk.com">support@unionreservebk.com</a></h2>
                 <h3 class='footer-quick-bar__item-subtitle'>Customer Service</h3>
             </div>
         </div>

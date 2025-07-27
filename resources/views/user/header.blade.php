@@ -5,22 +5,23 @@
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meritum Bank - Secure and Reliable Banking Services</title>
-    <meta property="og:title" content="Meritum Bank">
-    <meta name="author" content="Meritum Bank">
+    <title>Union Reserve Bank - Secure and Reliable Banking Services</title>
+    <meta property="og:title" content="Union Reserve Bank">
+    <meta name="author" content="Union Reserve Bank">
     <meta name="description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <meta name="keywords" content="Meritum Bank">
+    <meta name="keywords" content="Union Reserve Bank">
     <meta name="description"
-        content="Meritum Bank provides secure and reliable banking services. Join us today for seamless transactions and customer satisfaction." />
-    <meta name="keywords" content="Meritum Bank, secure banking, trusted bank, online banking, financial services" />
+        content="Union Reserve Bank provides secure and reliable banking services. Join us today for seamless transactions and customer satisfaction." />
+    <meta name="keywords"
+        content="Union Reserve Bank, secure banking, trusted bank, online banking, financial services" />
 
     <meta property="og:locale" content="en_US">
     <meta property="og:description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <meta name="og:keywords" content="Meritum Bank">
-    <meta property="og:url" content="https://meritumbk.com">
-    <meta property="og:site_name" content="Meritum Bank">
+    <meta name="og:keywords" content="Union Reserve Bank">
+    <meta property="og:url" content="https://unionreservebk.com">
+    <meta property="og:site_name" content="Union Reserve Bank">
     <meta property="og:image" content="uploads/logo.png" />
-    <link rel="canonical" href="https://meritumbk.com">
+    <link rel="canonical" href="https://unionreservebk.com">
     <!-- favicon & bookmark -->
     <link rel="apple-touch-icon" sizes="144x144" href="uploads/logo.png">
     <link rel="shortcut icon" href="uploads/logo.png">

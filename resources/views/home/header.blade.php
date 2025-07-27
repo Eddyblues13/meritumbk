@@ -16,8 +16,8 @@
     <!-- Facebook meta info - http://ogp.me/ -->
     <meta property="og:title" content="Home | Mobile Banking, Credit Cards, Mortgages, Auto Loan">
     <meta property="og:description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <meta property="og:url" content="https://meritumbk.com">
-    <!--<meta property="og:image" content="https://meritumbk.com/uploads/logo.png">-->
+    <meta property="og:url" content="https://unionreservebk.com">
+    <!--<meta property="og:image" content="https://unionreservebk.com/uploads/logo.png">-->
     <meta property="og:image" content="https://bastionbanks.com/uploads/meta.jpg">
     <meta name="twitter:card" content="summary"><!-- leave as-is -->
     <meta name="twitter:site" content="@First">
@@ -25,7 +25,7 @@
     <meta name="twitter:url" content="/">
     <meta name="twitter:title" content="Home | Mobile Banking, Credit Cards, Mortgages, Auto Loan">
     <meta name="twitter:description" content="Mobile Banking, Credit Cards, Mortgages, Auto Loan">
-    <!-- <meta name="twitter:image" content="https://meritumbk.com/uploads/logo.png">-->
+    <!-- <meta name="twitter:image" content="https://unionreservebk.com/uploads/logo.png">-->
     <meta name="twitter:image" content="https://bastionbanks.com/uploads/meta.jpg>
         <!-- minimum size of 120px by 120px and must be less than 1MB in file size. -->
         <!-- The page's canonical URL (absent of query strings, hash tags, etc.) -->
@@ -35,13 +35,13 @@
     <link rel="shortcut icon" href="uploads/logo.png">
 
     <!-- Start SmartBanner configuration -->
-    <meta name="smartbanner:title" content="Meritum Bank">
-    <meta name="smartbanner:author" content="Meritum Bank">
+    <meta name="smartbanner:title" content="Union Reserve Bank">
+    <meta name="smartbanner:author" content="Union Reserve Bank">
     <meta name="smartbanner:price" content="Free">
     <meta name="smartbanner:price-suffix-apple" content=" - On the App Store">
     <meta name="smartbanner:price-suffix-google" content=" - In Google Play">
-    <meta name="smartbanner:icon-apple" content="https://meritumbk.com/uploads/logo.png">
-    <meta name="smartbanner:icon-google" content="https://meritumbk.com/uploads/logo.png">
+    <meta name="smartbanner:icon-apple" content="https://unionreservebk.com/uploads/logo.png">
+    <meta name="smartbanner:icon-google" content="https://unionreservebk.com/uploads/logo.png">
     <meta name="smartbanner:button" content="View">
     <meta name="smartbanner:button-url-apple" content="#">
     <meta name="smartbanner:button-url-google" content="#">
@@ -64,14 +64,14 @@
         {
         "@context": "http://schema.org",
         "@type": "WebSite",
-        "url": "https://meritumbk.com",
+        "url": "https://unionreservebk.com",
         "copyrightYear": "2025",
         "sourceOrganization": {
         "@type": "Organization",
-        "name": "Meritum Bank",
-        "alternateName": "Meritum Bank - Home",
-        "logo": "https://meritumbk.com/uploads/logo.png"
-        "url": "https://meritumbk.com",
+        "name": "Union Reserve Bank",
+        "alternateName": "Union Reserve Bank - Home",
+        "logo": "https://unionreservebk.com/uploads/logo.png"
+        "url": "https://unionreservebk.com",
         "location" : {
         "@type" : "PostalAddress",
         "streetAddress" : "239 Fayetteville St. Raleigh, NC 27601.",
@@ -87,7 +87,7 @@
         ],
         "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://meritumbk.com/search?q=%7Bsearch_term_string%7D",
+        "target": "https://unionreservebk.com/search?q=%7Bsearch_term_string%7D",
         "query-input": "required name=search_term_string"
         }
         }
@@ -123,7 +123,7 @@ window.smartsupp||(function(d) {
 
                 <a href="{{ url('/') }}" class="l-header__logo"><img src="{{asset('uploads/logo.png')}}"
                         width="200px" /><span class="u-visuallyhidden">
-                        Meritum Bank </span></a>
+                        Union Reserve Bank </span></a>
 
                 <div class="l-header__action js-header-action">
                     <ul class="l-header__action__l1 l-header__action__desktop">
@@ -620,12 +620,12 @@ window.smartsupp||(function(d) {
                                 Customer Service
                             </p>
                             <p class="l-header__nav-contacts__item-cta">
-                                <a href="mailto:support@meritumbk.com">
+                                <a href="mailto:support@unionreservebk.com">
                                     <span class="icon">
                                         <img src="templates/bank-pro/icons/footer-icons/call-citadel-credit-union.svg"
                                             width="15" height="15" alt="">
                                     </span>
-                                    support@meritumbk.com </a>
+                                    support@unionreservebk.com </a>
                             </p>
                         </div>
                     </div>

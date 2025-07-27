@@ -96,7 +96,7 @@
                                                 </div>
                                                 <div class="h5 text-center">Expert Guidance</div>
                                                 <p class="text-center">Tap into
-                                                    Meritum BankResearch Footnote for help adapting your
+                                                    Union Reserve BankResearch Footnote for help adapting your
                                                     investment strategy to changes in the markets and in your life.</p>
 
                                             </div>
@@ -105,7 +105,7 @@
                                                 </div>
                                                 <div class="h5 text-center">Personal Connection</div>
                                                 <p class="text-center">Work with a
-                                                    Meritum BankAdvisor to develop a personalized strategy to
+                                                    Union Reserve BankAdvisor to develop a personalized strategy to
                                                     help you meet your most important goals. </p>
 
                                             </div>
@@ -121,7 +121,7 @@
                                     <div class="col-lg-8">
                                         <h2>Stay informed with research that sets the standard</h2>
                                         <p>
-                                            Meritum Bankanalysts deliver comprehensive market research that
+                                            Union Reserve Bankanalysts deliver comprehensive market research that
                                             leads
                                             the industry. Browse the latest insights, like market performance over time
                                             Footnote, to help you make informed investment decisions.</p>
@@ -350,7 +350,7 @@
                                         class="fas fa-piggy-bank image-block imaged w48 text-warning"></span>
                                     <div> <strong>Auto Save</strong>
                                         <p>Set a goal, save automatically with
-                                            Meritum Bank's Auto Save and track your progress.
+                                            Union Reserve Bank's Auto Save and track your progress.
                                         </p>
                                     </div>
                                 </div>

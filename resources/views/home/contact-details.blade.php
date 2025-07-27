@@ -8,7 +8,7 @@
                 <section class='main-hero main-hero--contact' aria-label="Contact Us"
                     style="padding: 2rem 0; background: #f8f9fa;">
                     <div class="l-contain">
-                        <h1 style="margin-bottom: 0.5rem;">Contact Meritum Bank</h1>
+                        <h1 style="margin-bottom: 0.5rem;">Contact Union Reserve Bank</h1>
                         <p>Reach us through these channels</p>
                     </div>
                 </section>
@@ -27,8 +27,8 @@
 
                                     <div>
                                         <h3 style="margin: 0 0 0.25rem 0; font-size: 1rem;">Email</h3>
-                                        <p style="margin: 0;"><a href="mailto:support@meritumbk.com"
-                                                style="color: #0066cc;">support@meritumbk.com</a></p>
+                                        <p style="margin: 0;"><a href="mailto:support@unionreservebk.com"
+                                                style="color: #0066cc;">support@unionreservebk.com</a></p>
                                     </div>
                                 </div>
 

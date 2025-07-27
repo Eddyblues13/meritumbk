@@ -11,7 +11,7 @@
     <link href='https://fonts.googleapis.com/css?family=Quicksand:300,400,700' rel='stylesheet'>
     <!--<![endif]-->
 
-    <title>Meritum Bank</title>
+    <title>Union Reserve Bank</title>
 
     <style type='text/css'>
         body {
@@ -160,7 +160,7 @@
                                         <a href=''
                                             style='display: block; border-style: none !important; border: 0 !important;'>
                                             <img width='100' border='0' style='display: block; width: 100%;'
-                                                src="{{asset('uploads/logo.png')}}" alt="Meritum Bank" />
+                                                src="{{asset('uploads/logo.png')}}" alt="Union Reserve Bank" />
                                         </a>
                                     </td>
                                 </tr>
@@ -192,7 +192,7 @@
 
                             </ul>
                             <p>Thank you for using our service!</p>
-                            <p>Kind Regards,<br>Meritum Bank.</p>
+                            <p>Kind Regards,<br>Union Reserve Bank.</p>
                         </td>
                     </tr>
                 </table>

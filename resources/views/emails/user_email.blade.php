@@ -471,7 +471,7 @@
                                         <p class="f-fallback sub align-center">&copy; https://astracointrading.com/ All
                                             rights reserved.</p>
                                         <p class="f-fallback sub align-center">
-                                            Meritum Bank
+                                            Union Reserve Bank
                                             <br>https://astracointrading.com/
                                         </p>
                                     </td>
