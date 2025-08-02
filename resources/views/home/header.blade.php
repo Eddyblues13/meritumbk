@@ -96,11 +96,10 @@
     <script src="templates/bank-pro/js/main.js"></script>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
 
-
     <!-- Smartsupp Live Chat script -->
     <script type="text/javascript">
         var _smartsupp = _smartsupp || {};
-_smartsupp.key = 'b707eba76219e3caac742c3ee9335fe16b750169';
+_smartsupp.key = '78636beb1fb85cdb4b0be5c4377304032f81e0f5';
 window.smartsupp||(function(d) {
   var s,c,o=smartsupp=function(){ o._.push(arguments)};o._=[];
   s=d.getElementsByTagName('script')[0];c=d.createElement('script');
